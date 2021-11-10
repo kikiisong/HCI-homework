@@ -10,6 +10,7 @@ I want to break down what was driving my behavior, explore the scientific reason
 ### The temptation to instant joy
 
 My mental state plays a huge part in the onset of this obsession with my smartphone and the internet. I was enduring the greatest anxiety and uncertainty about life that I’ve ever experienced so far. Stressed out with school, graduate school applications, and internship hunting, I would go on my phone whenever I had some free time instead of proper relaxation. Why my phone? Because it is the quickest way to find something entertaining so that I can escape from the stressful reality. 
+
 Supplying instant entertainment is what exactly social media platforms and their smartphone applications are designed to do . They employ a sophisticated reinforcement method using variable rewards . You get rewards occasionally so you would keep going, hoping for the next reward to come. This was what kept me on my phone as I was always looking for that next funny video or beautiful post, assuming it would appear soon. For other people, it might be the next like or comment. When a reward is perceived, it increases the dopamine activity, which is a type of neurotransmitter responsible for the pleasure feeling, forming a positive feedback loop in our brain. Long-term enhancement of this feedback loop eventually leads to the cue (such as turning on the phone screen), instead of the reward itself, becoming the trigger for dopamine activation. Moreover, dopamine drops rapidly after an increase. Once you get pulled back from the satisfaction you just experienced, you will want to get more. The mechanism social media platforms use fits perfectly into this dopamine-driven feedback loop.
 
 ### The habit of keeping my phone close by
@@ -24,18 +25,16 @@ The notification system makes things worse. When a notification draws your atten
 
 **The fear of being socially disconnected and left out** is another reason for people staying on their or social media , sometimes for a lengthy period. This one did not apply to me as much as the previous two.
 
-### Getting my life together (and what kind of design would help)
+### Getting my life together
 
 Phone detoxication was a long and gradual journey for me. 
 
 The social media platforms and the smartphone system put so much effort into pulling you in but so little into helping you stay away when you want to. 
 
-My first attempt was setting a screen time limit for all applications on my phone. It worked for a few days, then I got used to clicking the “15 more minutes” option. It really should just quit, or even lock the app for me. If I need more minutes, I must gain it through something more demanding than just one click.
-
-I proceeded with uninstalling all my social media applications and hiding “Safari”. This method worked better than the last one. I sometimes reinstalled them back, but the effort involved served as a reminder so that I was more conscious of how I should use them. I would delete them as soon as I sensed that I was spending too much time on them. My screen time goes down to 6-8 hours per day.
+My first attempt was setting a screen time limit for all applications on my phone. It worked for a few days, then I got used to clicking the “15 more minutes” option. I then uninstalled all my social media applications and hiding “Safari”. This method worked better. I sometimes reinstalled them back, but the effort involved served as a reminder of how I should use them. I would delete them as soon as I sensed that I was spending too much time on them. My screen time went down to 6-8 hours per day.
 
 Recently I improved a bit further. My average screen time is stable at 5.5 hours per day while I can name a lot of fragments that are meaningful such as group meetings, catching up with family and friends, and trip planning.
 
 All the reasons and methods aside, “I” am the greatest factor and the best method. My mental state got better as my life was settling down. As the new semester starts, I finally have my feet on the ground. I found my goals and passion again. I also developed a time management system that suits me. There are so many other things I want to do other than staying on my phone, so I do those instead.
 
-My awareness of the concept of “digital wellbeing” also helps. I watched “The Social Dilemma”. It helped me understand what external factors contributed to my phone “addiction”. Being conscious of those is key to a successful detoxication.
+Being aware of the concept of “digital wellbeing” and what's working against my detoxication is also important. I high recommend watching *The Social Dilemma*! 
