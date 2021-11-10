@@ -1,5 +1,5 @@
 # Topic
-### My Reflection on **Digital Wellbeing**
+### My Reflection on Digital Wellbeing
 
 At the beginning of 2021, I was very digitally unhealthy. I started to use my phone more than ever. My average screen time skyrocketed to 11+ hours per day. What’s the worst part? I wasn’t doing anything meaningful on my phone. When the day was over, the void of knowing that I’ve wasted so many hours made me feel bad. The negativity got carried over to the next day. After a few weeks, I was in such a bad shape: unproductive, anxious, easily distracted, and lacking sleep. 
 
