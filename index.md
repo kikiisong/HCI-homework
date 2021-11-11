@@ -12,9 +12,8 @@ My mental state plays a huge part in the onset of this obsession with my smartph
 
 Supplying instant entertainment is what exactly social media platforms and their smartphone applications are designed to do. They employ a sophisticated reinforcement method using variable rewards[^2]. You get rewards occasionally so you would keep going, hoping for the next reward to come. This was what kept me on my phone as I was always looking for that next funny video or beautiful post, assuming it would appear soon. For other people, it might be the next like or comment. When a reward is perceived, it increases the dopamine activity, which is a type of neurotransmitter responsible for the pleasure feeling, forming a positive feedback loop in our brain. Long-term enhancement of this feedback loop eventually leads to the cue (such as turning on the screen), instead of the reward itself, becoming the trigger for dopamine activation. Moreover, dopamine drops rapidly after an increase. Once you get pulled back from the satisfaction you just experienced, you will want to get more. The mechanism social media platforms use fits perfectly into this dopamine-driven feedback loop[^3].
 
-<p align="center">
-  <width="200" src="/resources/how-dopamine-driven-feedback-loops-work.jpg" alt="Dopamine feedback loop">
-</p>
+![Dopamine feedback loop](/resources/how-dopamine-driven-feedback-loops-work.jpg)
+The Dopamine-drive feedback loop for social media use ([How dopamine driven feedback loops work?](https://digitash.com/technology/internet/how-dopamine-driven-feedback-loops-work/))
 
 ### The habit of keeping my phone close by
 
