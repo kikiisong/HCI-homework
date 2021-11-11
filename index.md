@@ -24,8 +24,10 @@ Task switching incurs cognitive costs[^4]. The switching is most expensive when 
 
 The notification system makes things worse. When a notification draws your attention, it’s eating your limited daily cognitive resource up. Whether you click on it and get distracted for a few minutes or just simply look at it for a few seconds, the intake and process of information are done. Study shows that email and other notifications increase inattention and stress[^6][^7]. This is also why browsing on your phone is not a proper relaxation of your brain. As much as you are not deliberately contemplating, using your phone is inevitably cognitive demanding because of the massive amount of information present online.
 
-vv
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ig6I3prnlnE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+> "I do actually open those apps frequently enough that I don't need to be reminded I need to open it every minute."
+
 
 ### Getting my life together
 
