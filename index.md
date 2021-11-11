@@ -12,8 +12,7 @@ My mental state plays a huge part in the onset of this obsession with my smartph
 
 Supplying instant entertainment is what exactly social media platforms and their smartphone applications are designed to do. They employ a sophisticated reinforcement method using variable rewards[^2]. You get rewards occasionally so you would keep going, hoping for the next reward to come. This was what kept me on my phone as I was always looking for that next funny video or beautiful post, assuming it would appear soon. For other people, it might be the next like or comment. When a reward is perceived, it increases the dopamine activity, which is a type of neurotransmitter responsible for the pleasure feeling, forming a positive feedback loop in our brain. Long-term enhancement of this feedback loop eventually leads to the cue (such as turning on the screen), instead of the reward itself, becoming the trigger for dopamine activation. Moreover, dopamine drops rapidly after an increase. Once you get pulled back from the satisfaction you just experienced, you will want to get more. The mechanism social media platforms use fits perfectly into this dopamine-driven feedback loop[^3].
 
-![Dopamine feedback loop](/resources/how-dopamine-driven-feedback-loops-work.jpg)
-The Dopamine-drive feedback loop for social media use ([How dopamine driven feedback loops work?](https://digitash.com/technology/internet/how-dopamine-driven-feedback-loops-work/))
+![Dopamine feedback loop](/resources/how-dopamine-driven-feedback-loops-work.jpg)[^10]
 
 ### The habit of keeping my phone close by
 
@@ -48,3 +47,4 @@ Being aware of the concept of “digital wellbeing” and what's working against
 [^5]: Rubinstein, J. S., Meyer, D. E., & Evans, J. E. (2001). Executive control of cognitive processes in task switching. Journal of experimental psychology. Human perception and performance, 27(4), 763–797. https://doi.org/10.1037//0096-1523.27.4.763
 [^6]: Kushlev, K., and Dunn, E. W. (2015). Checking email less frequently reduces stress. Comput. Hum. Behav. 43, 220–228. doi: 10.1016/j.chb.2014.11.005
 [^7]: Kushlev, K., Proulx, J., & Dunn, E. W. (2016). “Silence your phones”: Smartphone notifications increase inattention and hyperactivity symptoms. Proceedings of CHI, 2016.
+[^10]: D, S. K. (2018). How dopamine driven feedback loops work? https://digitash.com/technology/internet/how-dopamine-driven-feedback-loops-work/
