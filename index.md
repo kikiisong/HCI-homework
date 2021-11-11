@@ -24,12 +24,13 @@ It might not seem like a serious problem. Isn’t it just an a-few-minute break?
 
 Task switching incurs cognitive costs[^4]. The switching is most expensive when going from an easier task to a complex one immediately[^5]. Responses will be significantly slower after such a switch. Normally, looking at our phone is a much easier task than the real task we want to finish but gets interrupted frequently.
 
-The notification system makes things worse. When a notification draws your attention, it’s eating your limited daily cognitive resource up. Whether you click on it and get distracted for a few minutes or just simply look at it for a few seconds, the intake and process of information are done. Study shows that email and other notifications increase inattention and stress[^6][^7]. This is also why browsing on your phone is not a proper relaxation of your brain. As much as you are not deliberately contemplating, using your phone is inevitably cognitive demanding because of the massive amount of information present online.
+The notification system makes things worse. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ig6I3prnlnE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 > "I do actually open those apps frequently enough that I don't need to be reminded I need to open it every minute."
-
+ 
+When a notification draws your attention, it’s eating your limited daily cognitive resource up. Whether you click on it and get distracted for a few minutes or just simply look at it for a few seconds, the intake and process of information are done. Study shows that email and other notifications increase inattention and stress[^6][^7]. This is also why browsing on your phone is not a proper relaxation of your brain. As much as you are not deliberately contemplating, using your phone is inevitably cognitive demanding because of the massive amount of information present online.
 
 ### Getting my life together
 
