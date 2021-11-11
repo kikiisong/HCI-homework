@@ -18,9 +18,9 @@ I always have my phone, connected to the internet, near me. As I started to pay 
 
 It might not seem like a serious problem. Isn’t it just an a-few-minute break? Not really. It’s silently draining your cognitive energy.
 
-Task switching incurs cognitive costs. The switching is most expensive when going from an easier task to a complex one immediately. Responses will be significantly slower after such a switch. Normally, looking at our phone is a much easier task than the real task we want to finish but gets interrupted frequently.
+Task switching incurs cognitive costs[^4]. The switching is most expensive when going from an easier task to a complex one immediately[^5]. Responses will be significantly slower after such a switch. Normally, looking at our phone is a much easier task than the real task we want to finish but gets interrupted frequently.
 
-The notification system makes things worse. When a notification draws your attention, it’s eating your limited daily cognitive resource up. Whether you click on it and get distracted for a few minutes or just simply look at it for a few seconds, the intake and process of information are done. Study shows that email and other notifications increase inattention and stress. This is also why browsing on your phone is not a proper relaxation of your brain. As much as you are not deliberately contemplating, using your phone is inevitably cognitive demanding because of the massive amount of information present online.
+The notification system makes things worse. When a notification draws your attention, it’s eating your limited daily cognitive resource up. Whether you click on it and get distracted for a few minutes or just simply look at it for a few seconds, the intake and process of information are done. Study shows that email and other notifications increase inattention and stress[^6][^7]. This is also why browsing on your phone is not a proper relaxation of your brain. As much as you are not deliberately contemplating, using your phone is inevitably cognitive demanding because of the massive amount of information present online.
 
 ### Getting my life together
 
@@ -36,6 +36,12 @@ All the reasons and methods aside, “I” am the greatest factor and the best m
 
 Being aware of the concept of “digital wellbeing” and what's working against my detoxication is also important. I high recommend watching *The Social Dilemma*! 
 
+### References
+
 [^1]: Firth, J., Torous, J., Stubbs, B., Firth, J. A., Steiner, G. Z., Smith, L., Alvarez-Jimenez, M., Gleeson, J., Vancampfort, D., Armitage, C. J., & Sarris, J. (2019). The "online brain": how the Internet may be changing our cognition. World psychiatry : official journal of the World Psychiatric Association (WPA), 18(2), 119–129. https://doi.org/10.1002/wps.20617
 [^2]: Dillard-Wright, D. B. (2018, January 4). Technology Designed for Addiction. *Boundless*. https://www.psychologytoday.com/us/blog/boundless/201801/technology-designed-addiction
 [^3]: Macit, H. B. , Macit, G. & Güngör, O. (2018). A RESEARCH ON SOCIAL MEDIA ADDICTION AND DOPAMINE DRIVEN FEEDBACK . Mehmet Akif Ersoy Üniversitesi İktisadi ve İdari Bilimler Fakültesi Dergisi , 5 (3) , 882-897 . DOI: 10.30798/makuiibf.435845
+[^4]: American Psychological Association. (2006, March 20). Multitasking: Switching costs. https://www.apa.org/research/action/multitask
+[^5]: Rubinstein, J. S., Meyer, D. E., & Evans, J. E. (2001). Executive control of cognitive processes in task switching. Journal of experimental psychology. Human perception and performance, 27(4), 763–797. https://doi.org/10.1037//0096-1523.27.4.763
+[^6]: Kushlev, K., and Dunn, E. W. (2015). Checking email less frequently reduces stress. Comput. Hum. Behav. 43, 220–228. doi: 10.1016/j.chb.2014.11.005
+[^7]: Kushlev, K., Proulx, J., & Dunn, E. W. (2016). “Silence your phones”: Smartphone notifications increase inattention and hyperactivity symptoms. Proceedings of CHI, 2016.
