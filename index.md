@@ -18,7 +18,7 @@ When a reward is perceived, it increases dopamine activity, which is a type of n
 
 ### The habit of keeping my phone close by
 
-I always have my phone near me. As I started to pay close attention to my interaction with it, I noticed that I would reach for my phone, turn on the screen, check it, and then put it back again and again. I wasn’t aware of how often I was doing that until then. Sometimes I would even unlock the phone, thanks to the smoothness of the fingerprint unlock, and start doing completely unnecessary things, like opening the *Settings* menu or checking my inbox. It had become a motor reflex.
+I always had my phone near me. As I started to pay close attention to my interaction with it, I noticed that I would reach for my phone, turn on the screen, check it, and then put it back again and again. I wasn’t aware of how often I was doing that until then. Sometimes I would even unlock the phone, thanks to the smoothness of the fingerprint unlock, and start doing completely unnecessary things, like opening the *Settings* menu or checking my inbox. It had become a motor reflex.
 
 It might not seem like a serious problem. Isn’t it just an a-few-minute break? Not really. It’s silently draining your cognitive energy.
 
