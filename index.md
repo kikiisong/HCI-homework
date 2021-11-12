@@ -8,7 +8,7 @@ I want to break down what was driving my behavior, explore the scientific reason
 
 ### The temptation to instant joy
 
-My mental state plays a huge part in the onset of this obsession with my smartphone and the internet. I was enduring the greatest anxiety and uncertainty about life that I’ve ever experienced so far. Stressed out by school and internship, I would go on my phone whenever I had some free time instead of getting proper relaxation. Why? Because it is the quickest way to find something entertaining. 
+My mental state played a huge part in the onset of this addiction with my smartphone. I was enduring the greatest anxiety and uncertainty about life that I’ve ever experienced so far. Stressed out by school and internship, I would go on my phone whenever I had some free time instead of getting a proper relaxation. Why? Because it is the quickest way to find something entertaining. 
 
 Supplying instant entertainment is what exactly social media platforms and their smartphone applications are designed to do. They employ a sophisticated reinforcement method using variable rewards[^2]. You get rewards occasionally so you would keep going, hoping for the next reward to come. This was what kept me on my phone as I was always looking for that next funny video or beautiful post, assuming it would appear soon. For other people, it might be the next like or comment. 
 
@@ -18,7 +18,7 @@ When a reward is perceived, it increases dopamine activity, which is a type of n
 
 ### The habit of keeping my phone close by
 
-I always have my phone, connected to the internet, near me. As I started to pay close attention to my interaction with it, I noticed that I would reach for my phone, turn on the screen, check it, and then put it back again and again. I wasn’t aware of how often I was doing that until then. Sometimes I would even unlock the phone, thanks to the smoothness of the fingerprint unlock, and start doing completely unnecessary things, like opening the *Settings* menu or checking my inbox. It had become a motor reflex.
+I always have my phone near me. As I started to pay close attention to my interaction with it, I noticed that I would reach for my phone, turn on the screen, check it, and then put it back again and again. I wasn’t aware of how often I was doing that until then. Sometimes I would even unlock the phone, thanks to the smoothness of the fingerprint unlock, and start doing completely unnecessary things, like opening the *Settings* menu or checking my inbox. It had become a motor reflex.
 
 It might not seem like a serious problem. Isn’t it just an a-few-minute break? Not really. It’s silently draining your cognitive energy.
 
@@ -30,7 +30,7 @@ The notification system makes things worse.
 
 > "I do actually open those apps frequently enough that I don't need to be reminded I need to open it every minute."
  
-When a notification draws your attention, it’s eating your limited daily cognitive resource up. Whether you click on it and get distracted for a few minutes or just simply look at it for a few seconds, the intake and process of information are done. Study shows that email and other notifications increase inattention and stress[^6][^7]. This is also why browsing on your phone is not a proper relaxation of your brain. As much as you are not deliberately contemplating, using your phone is inevitably cognitive demanding because of the massive amount of information present online.
+When a notification draws your attention, it’s eating your limited daily cognitive resource up. Whether you click on it and get distracted for a few minutes or just simply look at it for a few seconds, the intake and process of information are done. Studies show that email and other notifications increase inattention and stress[^6][^7]. This is also why browsing on your phone is not a proper relaxation of your brain. As much as you are not deliberately contemplating, using your phone is inevitably cognitive demanding because of the massive amount of information present online.
 
 ### Getting my life together
 
