@@ -1,4 +1,4 @@
-## My Reflection on Digital Wellbeing
+## My Reflections on Digital Wellbeing
 
 At the beginning of 2021, I was very digitally unhealthy. My average screen time was 11+ hours per day. As I wasn’t doing anything meaningful on my phone, when the day was over, the void of knowing that I’ve wasted so many hours made me feel bad. The negativity got carried over to the next day. After a few weeks, I was in such a bad shape: unproductive, anxious, easily distracted, and lacking sleep. 
 
@@ -14,7 +14,7 @@ Supplying instant entertainment is what exactly social media platforms and their
 
 ![Dopamine feedback loop](/resources/how-dopamine-driven-feedback-loops-work.jpg)[^8]
 
-When a reward is perceived, it increases the dopamine activity, which is a type of neurotransmitter responsible for the pleasure feeling, forming a positive feedback loop in our brain. Long-term enhancement of this feedback loop eventually leads to the cue (such as turning on the screen), instead of the reward itself, becoming the trigger for dopamine activation. Moreover, dopamine drops rapidly after an increase. Once you get pulled back from the satisfaction you just experienced, you will want to get more. The mechanism social media platforms use fits perfectly into this dopamine-driven feedback loop[^3].
+When a reward is perceived, it increases dopamine activity, which is a type of neurotransmitter responsible for the pleasure feeling, forming a positive feedback loop in our brain. Long-term enhancement of this feedback loop eventually leads to the cue (such as turning on the screen), instead of the reward itself, becoming the trigger for dopamine activation. Moreover, dopamine drops rapidly after an increase. Once you get pulled back from the satisfaction you just experienced, you will want to get more. The mechanism social media platforms use fits perfectly into this dopamine-driven feedback loop[^3].
 
 ### The habit of keeping my phone close by
 
@@ -48,7 +48,9 @@ Recently I improved a bit further. My average screen time is stable at 5.5 hours
 
 All the reasons and methods aside, “I” am the greatest factor and the best method. My mental state got better as my life was settling down. As the new semester starts, I finally have my feet on the ground. I found my goals and passion again. I've also developed a time management system that suits me. There are so many things that I want to do other than staying on my phone, so I do those instead.
 
-Being aware of the concept of “digital wellbeing” and what's working against my detoxication is also important. I high recommend watching *The Social Dilemma*! 
+Being aware of the concept of “digital wellbeing” and what's working against my detoxication is also important. I highly recommend watching the documentary-drama *The Social Dilemma*! 
+
+![Screentime](/resources/the-social-dilemma.jpg)
 
 ### References
 
